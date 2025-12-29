@@ -1,4 +1,4 @@
-module logit-go
+module github.com/Konstantin-TT/logit-go
 
 go 1.24.2
 
